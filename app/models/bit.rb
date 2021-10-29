@@ -1,3 +1,3 @@
 class Bit < ApplicationRecord
-    belong_to :category
+    belongs_to :category
 end
